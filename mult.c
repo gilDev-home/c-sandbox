@@ -14,7 +14,7 @@ int main (int argc, char **argv) {
 
 	if (argc!=3) {
 		printf("\nHi\n");
-		printf("\nYou  have to provide two numbers, silly!\n\n");
+		printf("\nYou  have to provide two numbers.\n\n");
 	}
 	else {
 		s1=argv[1];
